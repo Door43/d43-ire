@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ire:home|Door43 (ire)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ire|d43-ire repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ire/archive/master.zip|d43-ire.zip]]
+
+**Recent Changes**
+{{changes>ns = ire}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ire|Ethnologue data]]
+
